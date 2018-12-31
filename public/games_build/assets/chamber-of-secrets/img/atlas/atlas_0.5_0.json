@@ -1,0 +1,964 @@
+{"frames": [
+
+{
+	"filename": "chamber-of-secrets-arrow",
+	"frame": {"x":676,"y":999,"w":17,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":3},
+	"sourceSize": {"w":17,"h":3}
+},
+{
+	"filename": "chamber-of-secrets-book_0",
+	"frame": {"x":952,"y":825,"w":61,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":61,"h":47},
+	"sourceSize": {"w":61,"h":61}
+},
+{
+	"filename": "chamber-of-secrets-book_1",
+	"frame": {"x":149,"y":764,"w":58,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":58,"h":61},
+	"sourceSize": {"w":61,"h":61}
+},
+{
+	"filename": "chamber-of-secrets-book_2",
+	"frame": {"x":87,"y":888,"w":61,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":61,"h":50},
+	"sourceSize": {"w":61,"h":61}
+},
+{
+	"filename": "chamber-of-secrets-books",
+	"frame": {"x":0,"y":701,"w":183,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":61},
+	"sourceSize": {"w":183,"h":61}
+},
+{
+	"filename": "chamber-of-secrets-butt_0",
+	"frame": {"x":913,"y":870,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "chamber-of-secrets-cat_0",
+	"frame": {"x":152,"y":950,"w":47,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":48},
+	"sourceSize": {"w":47,"h":48}
+},
+{
+	"filename": "chamber-of-secrets-cat_3",
+	"frame": {"x":646,"y":949,"w":47,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":48},
+	"sourceSize": {"w":47,"h":48}
+},
+{
+	"filename": "chamber-of-secrets-day",
+	"frame": {"x":0,"y":0,"w":1024,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":640},
+	"sourceSize": {"w":1024,"h":640}
+},
+{
+	"filename": "chamber-of-secrets-fish_0",
+	"frame": {"x":646,"y":999,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":9}
+},
+{
+	"filename": "chamber-of-secrets-fish_1",
+	"frame": {"x":0,"y":998,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":13,"h":9}
+},
+{
+	"filename": "chamber-of-secrets-fish_2",
+	"frame": {"x":661,"y":999,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":9}
+},
+{
+	"filename": "chamber-of-secrets-fish_3",
+	"frame": {"x":201,"y":950,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":13,"h":9}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_0",
+	"frame": {"x":880,"y":981,"w":16,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":35,"w":16,"h":12},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_1",
+	"frame": {"x":873,"y":838,"w":15,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":35,"w":15,"h":12},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_2",
+	"frame": {"x":873,"y":838,"w":15,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":35,"w":15,"h":12},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_3",
+	"frame": {"x":873,"y":823,"w":15,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":33,"w":15,"h":13},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_4",
+	"frame": {"x":933,"y":970,"w":12,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":28,"w":12,"h":15},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_5",
+	"frame": {"x":947,"y":970,"w":11,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":24,"w":11,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_6",
+	"frame": {"x":787,"y":971,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":16,"w":12,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_7",
+	"frame": {"x":1011,"y":800,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":11,"w":12,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_8",
+	"frame": {"x":773,"y":989,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":7,"w":12,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_9",
+	"frame": {"x":880,"y":995,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":4,"w":14,"h":13},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_10",
+	"frame": {"x":913,"y":920,"w":16,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":3,"w":16,"h":11},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_11",
+	"frame": {"x":873,"y":866,"w":15,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":3,"w":15,"h":11},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_12",
+	"frame": {"x":873,"y":852,"w":15,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":15,"h":12},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_13",
+	"frame": {"x":1011,"y":766,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":13,"h":14},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_14",
+	"frame": {"x":787,"y":989,"w":11,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":11,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_15",
+	"frame": {"x":773,"y":971,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":10,"w":12,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_16",
+	"frame": {"x":1011,"y":782,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":14,"w":12,"h":16},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_17",
+	"frame": {"x":960,"y":970,"w":11,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":22,"w":11,"h":15},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_18",
+	"frame": {"x":919,"y":970,"w":12,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":27,"w":12,"h":15},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_19",
+	"frame": {"x":890,"y":870,"w":14,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":31,"w":14,"h":13},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-fish_jump_20",
+	"frame": {"x":898,"y":981,"w":15,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":34,"w":15,"h":11},
+	"sourceSize": {"w":43,"h":59}
+},
+{
+	"filename": "chamber-of-secrets-flow_0",
+	"frame": {"x":999,"y":874,"w":21,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":53},
+	"sourceSize": {"w":56,"h":54}
+},
+{
+	"filename": "chamber-of-secrets-flow_1",
+	"frame": {"x":698,"y":947,"w":53,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":32,"w":53,"h":22},
+	"sourceSize": {"w":56,"h":54}
+},
+{
+	"filename": "chamber-of-secrets-flow_2",
+	"frame": {"x":753,"y":947,"w":53,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":32,"w":53,"h":22},
+	"sourceSize": {"w":56,"h":54}
+},
+{
+	"filename": "chamber-of-secrets-flow_3",
+	"frame": {"x":857,"y":947,"w":21,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":53},
+	"sourceSize": {"w":56,"h":54}
+},
+{
+	"filename": "chamber-of-secrets-item_0",
+	"frame": {"x":947,"y":874,"w":50,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":50,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_1",
+	"frame": {"x":185,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_2",
+	"frame": {"x":460,"y":887,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":59,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_3",
+	"frame": {"x":665,"y":642,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_4",
+	"frame": {"x":913,"y":642,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_5",
+	"frame": {"x":62,"y":940,"w":55,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":55,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_6",
+	"frame": {"x":335,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_7",
+	"frame": {"x":753,"y":885,"w":52,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":52,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_8",
+	"frame": {"x":274,"y":887,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_10",
+	"frame": {"x":952,"y":766,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":57,"h":57},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_11",
+	"frame": {"x":87,"y":764,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_12",
+	"frame": {"x":0,"y":936,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_13",
+	"frame": {"x":247,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_14",
+	"frame": {"x":119,"y":950,"w":31,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":1,"w":31,"h":58},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_16",
+	"frame": {"x":807,"y":885,"w":51,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":51,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_17",
+	"frame": {"x":975,"y":642,"w":48,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":48,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_18",
+	"frame": {"x":149,"y":827,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_19",
+	"frame": {"x":212,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_20",
+	"frame": {"x":643,"y":887,"w":53,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":53,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_21",
+	"frame": {"x":87,"y":826,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_22",
+	"frame": {"x":309,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_23",
+	"frame": {"x":371,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_24",
+	"frame": {"x":433,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_25",
+	"frame": {"x":619,"y":701,"w":32,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":32,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_26",
+	"frame": {"x":495,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_27",
+	"frame": {"x":274,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_28",
+	"frame": {"x":557,"y":701,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_29",
+	"frame": {"x":644,"y":823,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":56,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_31",
+	"frame": {"x":727,"y":642,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_32",
+	"frame": {"x":838,"y":704,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":57,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_33",
+	"frame": {"x":766,"y":765,"w":60,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":60,"h":55},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_34",
+	"frame": {"x":789,"y":642,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_36",
+	"frame": {"x":336,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_37",
+	"frame": {"x":851,"y":642,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_38",
+	"frame": {"x":398,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_39",
+	"frame": {"x":808,"y":947,"w":47,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":47,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_40",
+	"frame": {"x":209,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_41",
+	"frame": {"x":271,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_42",
+	"frame": {"x":333,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_43",
+	"frame": {"x":395,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_44",
+	"frame": {"x":521,"y":887,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_45",
+	"frame": {"x":897,"y":704,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":57,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_46",
+	"frame": {"x":460,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_47",
+	"frame": {"x":642,"y":765,"w":60,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_50",
+	"frame": {"x":457,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_51",
+	"frame": {"x":702,"y":823,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":56,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_52",
+	"frame": {"x":519,"y":763,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_53",
+	"frame": {"x":956,"y":704,"w":57,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":57,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_54",
+	"frame": {"x":698,"y":885,"w":53,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":53,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_56",
+	"frame": {"x":581,"y":763,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":59,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_57",
+	"frame": {"x":583,"y":825,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_58",
+	"frame": {"x":211,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_59",
+	"frame": {"x":273,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_60",
+	"frame": {"x":860,"y":885,"w":51,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":51,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_61",
+	"frame": {"x":828,"y":766,"w":60,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":60,"h":55},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_62",
+	"frame": {"x":397,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_63",
+	"frame": {"x":522,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_64",
+	"frame": {"x":704,"y":765,"w":60,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":60,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_66",
+	"frame": {"x":459,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_67",
+	"frame": {"x":582,"y":887,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_68",
+	"frame": {"x":521,"y":825,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_69",
+	"frame": {"x":584,"y":949,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_70",
+	"frame": {"x":890,"y":820,"w":60,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":60,"h":48},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_71",
+	"frame": {"x":817,"y":823,"w":54,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":54,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_72",
+	"frame": {"x":760,"y":823,"w":55,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":55,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_73",
+	"frame": {"x":150,"y":888,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_74",
+	"frame": {"x":653,"y":704,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_76",
+	"frame": {"x":890,"y":766,"w":60,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":60,"h":52},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_78",
+	"frame": {"x":212,"y":887,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_79",
+	"frame": {"x":715,"y":704,"w":60,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_80",
+	"frame": {"x":336,"y":887,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_81",
+	"frame": {"x":398,"y":887,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-item_82",
+	"frame": {"x":777,"y":704,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":59,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "chamber-of-secrets-light",
+	"frame": {"x":0,"y":642,"w":663,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":663,"h":57},
+	"sourceSize": {"w":669,"h":61}
+},
+{
+	"filename": "chamber-of-secrets-picture",
+	"frame": {"x":0,"y":764,"w":85,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":84},
+	"sourceSize": {"w":85,"h":84}
+},
+{
+	"filename": "chamber-of-secrets-picture_dark",
+	"frame": {"x":0,"y":850,"w":85,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":84},
+	"sourceSize": {"w":85,"h":84}
+},
+{
+	"filename": "chamber-of-secrets-toktok_0",
+	"frame": {"x":880,"y":947,"w":37,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":32},
+	"sourceSize": {"w":37,"h":32}
+},
+{
+	"filename": "chamber-of-secrets-toktok_1",
+	"frame": {"x":695,"y":971,"w":37,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":32},
+	"sourceSize": {"w":37,"h":32}
+},
+{
+	"filename": "chamber-of-secrets-toktok_10",
+	"frame": {"x":734,"y":971,"w":37,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":32},
+	"sourceSize": {"w":37,"h":32}
+},
+{
+	"filename": "chamber-of-secrets-toktok_11",
+	"frame": {"x":919,"y":936,"w":37,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":32},
+	"sourceSize": {"w":37,"h":32}
+},
+{
+	"filename": "chamber-of-secrets-toktok_12",
+	"frame": {"x":958,"y":936,"w":37,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":32},
+	"sourceSize": {"w":37,"h":32}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas_0.5_0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1008},
+	"scale": "0.125",
+	"smartupdate": "$TexturePacker:SmartUpdate:b48c82002259ddd2405fcb72ac3301d6:0bdfc5c8deae36224d532838102cba92:092e562c7ebb35d79d8a0623d0dfd015$"
+}
+}
