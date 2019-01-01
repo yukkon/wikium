@@ -25,7 +25,7 @@
             <div class="games-content__items">
             {% games %}
               <article class="game-preview card games-content__item" data-is-mobile="true" data-mode="prod" data-state="accessible" data-game="{{ code }}">
-                <a class="game-preview__link" href="/game/{{ code }}">
+                <a class="game-preview__link" href="/games/{{ code }}">
                   <div class="game-preview__img-wrap">
                     <img class="game-preview__img" height="124" src="/build/img/games/{{ code }}.svg" alt="{{ name }}">
                   </div>

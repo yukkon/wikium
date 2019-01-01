@@ -13,8 +13,6 @@ global.db = new sqlite3.Database('wikium.db', (err) => {
     console.log('Connected to the database.');
 });
 
-global.auth_result = null;
-
 // loads module and registers app specific cleanup callback...
 require('./cleanup').Cleanup(myCleanup);
 
@@ -53,20 +51,12 @@ app.use(session({
 app.use('/', indexRouter);
 app.use('/login', loginRouter);
 app.use('/logout', logoutRouter);
-app.use('/game', gamesRouter);
+app.use('/games', gamesRouter);
 app.use('/api', apiRouter);
 app.use('/users', usersRouter);
 
 Array.prototype.groupBy = function(key) {
   return this.reduce((h, a) => Object.assign(h, { [a[key]]:( h[a[key]] || [] ).concat(a) }), {});
 };
-
-app.use((req, res, next) => {
-    if (req.session.auth_result && req.session.auth_result !== undefined) {
-        return next();
-    } else {
-        return res.redirect('/login');
-    }
-});
 
 module.exports = app;

@@ -2,16 +2,6 @@ var express = require('express');
 var router = express.Router();
 const Auth = require('../auth');
 
-router.use((req, res, next) => {
-    Auth.auth(req.sessionID, () => {
-        if (auth_result && auth_result !== undefined) {
-            return res.redirect('/game');
-        } else {
-            return next();
-        }
-    });
-});
-
 router.get('/', function(req, res) {
     res.render('login')
 });
@@ -28,20 +18,12 @@ router.post('/', function(req, res) {
 
         let enc_pass = Auth.encryptPassword(req.body.password, row.salt);
         if (enc_pass === row.encrypted_password){
-            db.run(`UPDATE users SET session_id = '${req.sessionID}' WHERE id = ${row.id}`, (err) => {
-                if (err) {
-                    res.json({"result":"error","message":`Error while updating User`,"code":"404","locale":"ru"});
-                    return console.log(`User '${row.id}' was not updated: ${err.message}`);
-                }
-                console.log(`User '${req.body.session_id}' was updated`);
-                global.auth_result = {user: row, session_id: req.sessionID};
-                req.session.auth_result = {user: row};
-                res.redirect('/game');
-            });
-
-            //res.send(`result: ${enc_pass === row.encrypted_password}`);
+            console.log(`User '${req.body.name}' logged in successfully`);
+            req.session.auth_result = {user: {id: row.id, user_name: row.user_name, created_at: row.created_at}};
+            req.session.save();
+            res.redirect('/games');
         } else {
-            //res.send(`result: ${}`);
+            res.render(`login`, {error: 'Invalid user_name or password'});
         }
     });
 });

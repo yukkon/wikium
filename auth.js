@@ -1,8 +1,8 @@
 const crypto = require('crypto');
 
 class Auth {
-  static auth(session_id, callback){
-    if (auth_result && auth_result != undefined && auth_result.session_id === session_id) {
+  static auth(req, callback){
+    if (req.session.auth_result) {
       return callback();
     }
 
@@ -12,11 +12,11 @@ class Auth {
       }
 
       if (row === undefined) {
-        auth_result = null;
+        req.session.auth_result = null;
         return callback();
       }
 
-      auth_result = {user: row, session_id: session_id};
+      req.session.auth_result = {user: row};
       callback();
     });
   }

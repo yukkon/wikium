@@ -1,16 +1,5 @@
 var express = require('express');
 var router = express.Router();
-const Auth = require('../auth');
-
-router.use((req, res, next) => {
-    Auth.auth(req.sessionID, () => {
-        if (auth_result && auth_result !== undefined) {
-            return next();
-        } else {
-            return res.redirect('/login');
-        }
-    })
-});
 
 router.get('/', function(req, res) {
     var types = [];
@@ -30,7 +19,7 @@ router.get('/:game', function(req, res) {
         return console.log(`error select game: ${game.code} ${err.message}`);
     }
 
-    if (row == undefined) {
+    if (row === undefined) {
         return res.json({"result":"error","message":`Game '${req.params.game}' does not exists`,"code":"404","locale":"ru"});
     }
     res.render(row.extended ? 'extended_game' : 'game', { game: row.code });

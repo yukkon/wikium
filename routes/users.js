@@ -2,16 +2,6 @@ var express = require('express');
 var router = express.Router();
 const Auth = require('../auth');
 
-router.use((req, res, next) => {
-  Auth.auth(req.sessionID, () => {
-    if (auth_result && auth_result !== undefined) {
-      return next();
-    } else {
-      return res.redirect('/login');
-    }
-  })
-});
-
 router.get('/', function(req, res) {
   res.send();
 });
@@ -35,10 +25,12 @@ router.post('/', function(req, res) {
 
 //get user info
 router.get('/:id', function(req, res) {
-  if (auth_result.user.id != req.params.id){
-    return res.redirect(`/users/${auth_result.user.id}`)
+  let user = req.session.auth_result.user;
+  if (req.session.auth_result.user.id != req.params.id){
+    return res.redirect(`/users/${user.id}`)
   }
-  var o = {id: auth_result.user.id, user_name: auth_result.user.user_name, created_at: auth_result.user.created_at };
+
+  var o = {id: user.id, user_name: user.user_name, created_at: user.created_at };
   res.render('user', o);
 });
 
